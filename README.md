@@ -7,3 +7,4 @@ Initially you are given a URL having placeholders in it; represented by {}. We a
 
 Hint: Reflection in Kotlin.
 
+### Also there is a provided file above by the name of documentation.pdf, do refer to that to get detailed insights on how I solved this assignment, what problems did I encounter and what design decission did I make.
